@@ -1,4 +1,9 @@
 #
+LuCI --->
+3. Applications --->
+<*> luci-app-ddnsto.................................. LuCI support for ddnsto
+<*> luci-app-linkease.................................. LuCI support for linkease
+#
 # Automatically generated file; DO NOT EDIT.
 # ImmortalWrt Configuration
 #
