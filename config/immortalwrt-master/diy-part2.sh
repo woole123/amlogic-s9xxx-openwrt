@@ -29,5 +29,7 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 # Apply patch
 # git apply ../config/patches/{0001*,0002*}.patch --directory=feeds/luci
 #
+curl -s -L https://github.com/nikkinikki-org/OpenWrt-nikki/raw/refs/heads/main/feed.sh | ash
+#
 # ------------------------------- Other ends -------------------------------
 
