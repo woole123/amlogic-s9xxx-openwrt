@@ -31,5 +31,6 @@ git clone https://github.com/ophub/luci-app-amlogic.git package/luci-app-amlogic
 #
 curl -s -L https://github.com/nikkinikki-org/OpenWrt-nikki/raw/refs/heads/main/feed.sh | ash
 #
+git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 # ------------------------------- Other ends -------------------------------
 
